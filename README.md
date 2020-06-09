@@ -60,5 +60,5 @@ The following environment variables can be used to configure the application:
  - `NODE_RED_USE_APPMETRICS` - enables the appmetrics dashboard
 
 
-Video Link:https://youtu.be/_P3IEHokf1w
+Video Link:https://youtu.be/BcsxzdjYtow
 Node-RED link:https://smart-internz.eu-gb.mybluemix.net/ui/
